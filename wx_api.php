@@ -1,8 +1,4 @@
 <?php
-/**
-  * wechat php test
-  */
-
 //define your token
 define("TOKEN", "wx_token");//微信token
 $wechatObj = new wechatCallbackapiTest();
