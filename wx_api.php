@@ -4,7 +4,7 @@
   */
 
 //define your token
-define("TOKEN", "hellwor654ds");
+define("TOKEN", "wx_token");//微信token
 $wechatObj = new wechatCallbackapiTest();
 //$wechatObj->valid();
 $wechatObj->responseMsg();
